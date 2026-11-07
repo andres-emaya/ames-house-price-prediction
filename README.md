@@ -10,4 +10,4 @@ End-to-end scikit-learn pipeline that predicts house prices (regression) and ref
 
 **Dataset:** Ames Housing, loaded automatically by the notebook.
 
-**Built with:** Python, scikit-learn, pandas, Matplotlib
+**Built with:** Python, scikit-learn, imbalanced-learn, pandas, Matplotlib
